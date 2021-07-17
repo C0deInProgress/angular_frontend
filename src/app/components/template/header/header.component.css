@@ -1,0 +1,4 @@
+img             {height: 50px;}
+h2              {padding-left:15px;}
+span            {display: flex; align-items: center;}
+.header         {background-color: black; color:white; justify-content: center; height: 10%;}

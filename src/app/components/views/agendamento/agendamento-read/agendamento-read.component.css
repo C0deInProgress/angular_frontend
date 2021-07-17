@@ -1,0 +1,9 @@
+.content            {width: 90%; margin: 15px auto auto auto; }
+.title              {text-align: center; margin-bottom: 20px; }
+h1                  {font-size: 35px; font-weight: 500;}
+.times              {background-color: white; height: 100px; width: 150px;}
+.title-card         {font-size: 15px; position: relative; top: 40%; left: 12%;}
+.row                {width: 100%;}
+.button-time        {border: 0;padding: 0;margin: 0; background-color: transparent;}
+.color-selected     {background-color: green;}
+.color-unselected   {background-color: white;}

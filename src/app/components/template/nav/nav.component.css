@@ -1,0 +1,4 @@
+.container                      {height: 85%;background-color: gray;}
+i                               {padding-right: 5px; position: relative; top: 6px;}
+.menu                           {width: 15%;padding-right: 0px;}
+.nav-link                       {color:black}
